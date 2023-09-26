@@ -1,0 +1,8 @@
+Risotto:
+  - Arborio rice
+  - broth(chicken, vegetable, or seafood)
+  - Onion
+  - Butter
+  - White wine
+  - Grated Parmesan cheese 
+  - Salt and pepper
