@@ -1,0 +1,8 @@
+Lasagna:
+  - Lasagna noodles
+  - Ricotta cheese
+  - Mozzarella cheese
+  - Tomato sauce
+  - Onion
+  - Garlic
+  - Herbs

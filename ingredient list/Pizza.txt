@@ -1,0 +1,7 @@
+Pizza:
+- Pizza dough
+- Tomato sauce
+- Mozzarella cheese
+- Fresh basil leaves
+- Olive oil
+- Toppings of choice (pepperoni, mushrooms, onions, etc.)
