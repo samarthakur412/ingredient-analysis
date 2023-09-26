@@ -1,0 +1,7 @@
+Bruschetta:
+  - Baguette slices
+  - Ripe tomatoes
+  - Fresh basil
+  - Garlic
+  - Extra-virgin olive oil
+  - Balsamic vinegar
